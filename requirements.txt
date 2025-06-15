@@ -1,0 +1,7 @@
+gunicorn
+flask
+newspaper3k
+nltk
+textblob
+validators
+requests
